@@ -1,0 +1,220 @@
+﻿The Metamorphosis of Prime Intellect (Roger Williams)
+- Your Bookmark on page 2 | location 28 | Added on Sunday, 4 June 2023 22:42:15
+
+
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 173-173 | Added on Monday, 5 June 2023 07:29:07
+
+only thing immune to change is change itself.
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 246-248 | Added on Monday, 5 June 2023 08:47:40
+
+When arithmetic became cheap, not only did we use more of it for traditional applications of arithmetic, but we also used the newly cheap arithmetic for applications that were not traditionally associated with arithmetic, like music.
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 260-261 | Added on Monday, 5 June 2023 08:50:31
+
+You’d never have seen Steve Jobs announce “a new adding machine,” even though that is all he ever did. By reducing the cost of something important, Jobs’s new adding machines were transformative.
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 309-311 | Added on Monday, 5 June 2023 09:08:12
+
+But at some point, a prediction machine may become so accurate and reliable that it changes how an organization does things. Some AIs will affect the economics of a business so dramatically that they will no longer be used to simply enhance productivity in executing against the strategy; they will change the strategy itself.
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 320-322 | Added on Monday, 5 June 2023 09:14:16
+
+At some point, as it turns the knob, the AI’s prediction accuracy crosses a threshold, changing Amazon’s business model. The prediction becomes sufficiently accurate that it becomes more profitable for Amazon to ship you the
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 320-322 | Added on Monday, 5 June 2023 09:14:22
+
+At some point, as it turns the knob, the AI’s prediction accuracy crosses a threshold, changing Amazon’s business model. The prediction becomes sufficiently accurate that it becomes more profitable for Amazon to ship you the goods that it predicts you will want rather than wait for you to order them.
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 325-326 | Added on Monday, 5 June 2023 09:14:46
+
+prediction dial changes Amazon’s business model from shopping-then-shipping to shipping-then-shopping.
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 362-363 | Added on Tuesday, 6 June 2023 23:14:24
+
+AIs that have an impact on strategy shift the attention on AI from product managers and operations engineers to the C-suite.
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 381-382 | Added on Tuesday, 6 June 2023 23:17:31
+
+The drop in the cost of prediction will impact the value of other things, increasing the value of complements (data, judgment, and action) and diminishing the value of substitutes (human prediction).
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 463-464 | Added on Wednesday, 7 June 2023 09:47:44
+
+The change from 98 percent to 99.9 percent might seem incremental, but small changes are meaningful if mistakes are costly.
+==========
+﻿Your Clippings  
+- Your Highlight at location 1-1 | Added on Wednesday, 7 June 2023 14:26:55
+
+Williams) - Your Bookmark on page 2 | location 28 | Added on Sunday,
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 531-532 | Added on Thursday, 8 June 2023 09:13:52
+
+The first step in reducing churn is to identify at-risk customers. Companies can use prediction technologies to do that.
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 564-566 | Added on Thursday, 8 June 2023 09:18:36
+
+Being precisely perfect on average can mean being actually wrong each time. Regression can keep missing several feet to the left or several feet to the right. Even if it averages out to the correct answer, regression can mean never actually hitting the target.
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 598-599 | Added on Thursday, 8 June 2023 09:25:10
+
+from financial markets to the weather.
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 599-599 | Added on Thursday, 8 June 2023 09:25:14
+
+The financial crisis of 2008 was a spectacular failure of regression-based prediction methods.
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 581-582 | Added on Thursday, 8 June 2023 09:25:23
+
+storage had improved. In the Duke tournament, the training
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 603-611 | Added on Thursday, 8 June 2023 09:25:46
+
+The failure was not due to insufficient data, but instead how analysts used that data to form a prediction. Ratings agencies based their prediction on multiple regression–like models that assumed house prices in different markets were not correlated with one another. That turned out to be false, not just in 2007 but also previously. Include the possibility that a shock might hit many housing markets simultaneously, and the probability goes way up that you lose out on CDOs, even if they are distributed across many US cities. Analysts built their regression models on hypotheses of what they believed mattered and how—beliefs unnecessary for machine learning. Machine learning models are particularly good at determining which of many possible variables will work best and recognizing that some things don’t matter and others, perhaps surprisingly, do. Now, an analyst’s intuition and hypotheses are less important. In this way, machine learning enables predictions based on unanticipated correlations, including that housing prices in Las Vegas, Phoenix, and Miami might move together.
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 620-621 | Added on Thursday, 8 June 2023 09:35:46
+
+What if we want a way to describe all the objects in a picture? We
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 621-622 | Added on Thursday, 8 June 2023 09:35:50
+
+A key technology underpinning recent advances, labeled “deep learning,” relies on an approach called “back propagation.”
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 634-635 | Added on Thursday, 8 June 2023 09:38:01
+
+were associated with human intelligence, such as object identification. In his book On Intelligence,
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 634-635 | Added on Thursday, 8 June 2023 09:38:06
+
+In his book On Intelligence, Jeff Hawkins was among the first to argue that prediction is the basis for human intelligence.
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 654-662 | Added on Thursday, 8 June 2023 09:42:10
+
+Overall, whether or not it is intelligence, this progression from deterministic to probabilistic programming of computers is an important step-function transition, albeit consistent with progress in the social and physical sciences. Philosopher Ian Hacking, in his book The Taming of Chance, said that, before the nineteenth century, probability was the domain of gamblers.4 By the nineteenth century, the rise of government census data applied the newly emerging mathematics of probability to the social sciences. The twentieth century saw a fundamental reordering of our understanding of the physical world, moving from a Newtonian deterministic perspective to the uncertainties of quantum mechanics. Perhaps the most important advance of twenty-first-century computer science matches these previous advances in social and physical sciences: the recognition that algorithms work best when structured probabilistically, based on data. KEY
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 654-662 | Added on Thursday, 8 June 2023 09:43:03
+
+Overall, whether or not it is intelligence, this progression from deterministic to probabilistic programming of computers is an important step-function transition, albeit consistent with progress in the social and physical sciences. Philosopher Ian Hacking, in his book The Taming of Chance, said that, before the nineteenth century, probability was the domain of gamblers.4 By the nineteenth century, the rise of government census data applied the newly emerging mathematics of probability to the social sciences. The twentieth century saw a fundamental reordering of our understanding of the physical world, moving from a Newtonian deterministic perspective to the uncertainties of quantum mechanics. Perhaps the most important advance of twenty-first-century computer science matches these previous advances in social and physical sciences: the recognition that algorithms work best when structured probabilistically, based on data. KEY
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 654-661 | Added on Thursday, 8 June 2023 09:43:10
+
+Overall, whether or not it is intelligence, this progression from deterministic to probabilistic programming of computers is an important step-function transition, albeit consistent with progress in the social and physical sciences. Philosopher Ian Hacking, in his book The Taming of Chance, said that, before the nineteenth century, probability was the domain of gamblers.4 By the nineteenth century, the rise of government census data applied the newly emerging mathematics of probability to the social sciences. The twentieth century saw a fundamental reordering of our understanding of the physical world, moving from a Newtonian deterministic perspective to the uncertainties of quantum mechanics. Perhaps the most important advance of twenty-first-century computer science matches these previous advances in social and physical sciences: the recognition that algorithms work best when structured probabilistically, based on data.
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Bookmark at location 677 | Added on Friday, 9 June 2023 22:55:30
+
+
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 698-710 | Added on Friday, 9 June 2023 22:58:55
+
+But the potential power of such products comes from combining this rich data with a prediction machine. Both academic and industry researchers have shown that smartphones can predict irregular heart rhythms (medically, atrial fibrillation).2 So, with their prediction machines, the products that Cardiogram, AliveCor, Cardiio, and others are building use heart rate data to help diagnose heart disease. The general approach is to use heart rate data to predict the unknown information of whether a particular user has an abnormal heart rhythm. This input data is necessary to operate the prediction machine. Because prediction machines cannot run without input data, we often label it simply “data,” in contrast to training and feedback data. The uninitiated consumer cannot see the link between heart rate data and an abnormal heart rhythm from raw data. In contrast, Cardiogram can detect an irregular heart rhythm with 97 percent accuracy using its deep neural network.3 Such abnormalities cause about a quarter of strokes. With better prediction, doctors can deliver better treatment. Certain drugs can prevent strokes. For this to work, individual consumers have to provide their heart rate data. Without personal data, a machine cannot predict the risk for that particular person. The combination of a prediction machine with an individual’s personal data enables a prediction for that person’s likelihood of an irregular heart rhythm.
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 727-729 | Added on Sunday, 11 June 2023 22:26:13
+
+However, acquiring training data can be challenging. To predict the same group of items (in this case, heart patients), you need information on the outcome of interest (irregular heart rhythms) as well as information on something that will be useful for predicting that outcome in a new context (cardio-monitoring).
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Bookmark at location 677 | Added on Sunday, 11 June 2023 22:31:51
+
+
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 756-757 | Added on Thursday, 15 June 2023 09:10:19
+
+small amount of information on most of its users. And it only required access to abnormal heart rhythm information for the people it was using to train its AI. In
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 758-764 | Added on Thursday, 15 June 2023 09:10:26
+
+In order to make a good prediction, the machine must have enough individuals (or units of analysis) in the training data. The number of individuals required depends on two factors: first, how reliable the “signal” is relative to the “noise,” and second, how accurate the prediction must be to be useful. In other words, the number of required people depends on whether we expect heart rates to be a strong or a weak predictor of irregular heart rhythms and how costly a mistake will be. If heart rate is a strong predictor and mistakes are not a big deal, then we only need a few people. If heart rate is a weak predictor or if each mistake puts lives at risk, then we need thousands or even millions. Cardiogram, in its preliminary study, used six thousand people, including just two hundred with an irregular heart rhythm. Over time, one way to collect further data is through feedback on whether the app’s users have or develop irregular heart rhythms.
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 801-805 | Added on Thursday, 15 June 2023 09:41:39
+
+So, while the data technically has decreasing returns to scale—the billionth search is less useful for improving the search engine than the first—from a business viewpoint, data might be most valuable if you have more and better data than your competitor. Some have argued that more data about unique factors brings disproportionate rewards in the market.6 Increasing data brings disproportionate rewards in the market. Thus, from an economic point of view, in such cases data may have increasing returns to scale.
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 840-845 | Added on Sunday, 18 June 2023 02:47:19
+
+and instead just guessed one or the other (50/50).1 What such experiments tell us is that humans are poor statisticians, even in situations when they are not too bad at assessing probabilities. No prediction machine would make an error like this. But perhaps humans don’t take such tasks seriously, since they may feel as if they are playing a game. Would they make similar errors if the consequences are decidedly not game-like? The answer—demonstrated over many experiments
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 841-844 | Added on Sunday, 18 June 2023 02:47:25
+
+What such experiments tell us is that humans are poor statisticians, even in situations when they are not too bad at assessing probabilities. No prediction machine would make an error like this. But perhaps humans don’t take such tasks seriously, since they may feel as if they are playing a game. Would they make similar errors if the consequences are decidedly not game-like?
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 844-851 | Added on Sunday, 18 June 2023 02:49:10
+
+The answer—demonstrated over many experiments by psychologists Daniel Kahneman and Amos Tversky—is decidedly yes.2 When they told people to consider two hospitals—one with forty-five births per day and another with fifteen births per day—and asked which hospital would have more days when 60 percent or more of the babies born are boys, very few gave the correct answer—the smaller hospital. The smaller hospital is correct because the larger the number of events (in this case, births), the likelier each daily outcome will be close to the average (in this case, 50 percent). To see how this works, imagine you are flipping coins. You are more likely to get heads every time if you flip five coins than if you flip fifty coins. Thus, the smaller hospital—precisely because it has fewer births—is more likely to have more extreme outcomes away from the average.
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Note at location 851 | Added on Sunday, 18 June 2023 02:49:26
+
+Law of large numbers at play
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 909-911 | Added on Sunday, 18 June 2023 02:59:56
+
+There are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns—the ones we don’t know we don’t know. And if one looks throughout the history of our country and other free countries, it is the latter category that tend to be the difficult ones.
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 914-916 | Added on Sunday, 18 June 2023 03:01:00
+
+Third, unknown unknowns are those events that are not captured by past experience or what is present in the data but are nonetheless possible, so prediction is difficult, although we may not realize it.
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Note at location 916 | Added on Sunday, 18 June 2023 03:01:23
+
+Blackswan /  randomness
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Bookmark at location 906 | Added on Monday, 19 June 2023 08:33:01
+
+
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 955-958 | Added on Monday, 19 June 2023 08:42:09
+
+As we describe above, in the case of known unknowns, humans understand the inaccuracy of the prediction. The prediction comes with a confidence range that reveals its imprecision. In the case of unknown unknowns, humans don’t think they have any answers. In contrast, with unknown knowns, prediction machines appear to provide a very precise answer, but that answer can be very wrong.
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 976-981 | Added on Monday, 19 June 2023 08:46:40
+
+No. To figure out if reading this book had an impact, you also need to know what would have happened if you hadn’t read this book. You don’t have that data. You need to observe what economists and statisticians call the “counterfactual”: what would have happened if you took a different action. Determining whether an action causes an outcome requires two predictions: first, what outcome will happen after the action is taken, and second, what outcome would have happened had a different action been taken. But that’s impossible. You will never have data on the action not taken.16
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 1025-1027 | Added on Monday, 19 June 2023 08:54:47
+
+“the effect of the division of labour, both in mechanical and mental processes, is, that it enables us to purchase and apply precisely the quantity of skill and knowledge which is required for it.”21
+==========
+﻿Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 1088-1090 | Added on Monday, 19 June 2023 09:11:01
+
+Prediction machines scale. The unit cost per prediction falls as the frequency increases. Human prediction does not scale the same way. However, humans have cognitive models of how the world works and thus can make predictions based on small amounts of data.
+==========
