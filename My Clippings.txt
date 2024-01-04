@@ -1,4 +1,4 @@
-﻿The Metamorphosis of Prime Intellect (Roger Williams)
+The Metamorphosis of Prime Intellect (Roger Williams)
 - Your Bookmark on page 2 | location 28 | Added on Sunday, 4 June 2023 22:42:15
 
 
@@ -217,4 +217,654 @@ No. To figure out if reading this book had an impact, you also need to know what
 - Your Highlight at location 1088-1090 | Added on Monday, 19 June 2023 09:11:01
 
 Prediction machines scale. The unit cost per prediction falls as the frequency increases. Human prediction does not scale the same way. However, humans have cognitive models of how the world works and thus can make predictions based on small amounts of data.
+==========
+Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 1110-1110 | Added on Friday, 23 June 2023 10:13:30
+
+But a prediction is not a decision.
+==========
+Prediction Machines: The Simple Economics of Artificial Intelligence (Ajay Agrawal, Joshua Gans;Avi Goldfarb)
+- Your Highlight at location 1110-1113 | Added on Friday, 23 June 2023 10:13:37
+
+But a prediction is not a decision. Making a decision requires applying judgment to a prediction and then acting. Before recent advances in machine intelligence, this distinction was only of academic interest because humans always performed prediction and judgment together. Now, advances in machine prediction mean that we have to examine the anatomy of a decision.
+==========
+Either/Or: A Fragment of Life (Soren Kierkegaard)
+- Your Highlight on page 41 | location 624-627 | Added on Wednesday, 28 June 2023 07:56:31
+
+This is the main defect with everything human, that it is only through opposition that the object of desire is possessed. I shan’t speak of the various syndromes that can keep the psychologist busy (the melancholic has the best-developed sense of humour, the most extravagant person is often the one most prone to the picturesque, the dissolute one often the most moral, the doubter often the most religious), but simply recall that it is through sin that one first catches sight of salvation.
+==========
+Either/Or: A Fragment of Life (Soren Kierkegaard)
+- Your Highlight on page 47 | location 714-715 | Added on Thursday, 29 June 2023 09:37:15
+
+divide my time thus: half the time I sleep, the other half I dream. When I sleep I never dream; that would be a pity, for sleeping is the height of genius.
+==========
+Either/Or: A Fragment of Life (Soren Kierkegaard)
+- Your Highlight on page 48 | location 728-729 | Added on Thursday, 29 June 2023 09:41:19
+
+vain you make a racket with your fool’s bells. You bore me, it’s always the same, an
+==========
+Either/Or: A Fragment of Life (Soren Kierkegaard)
+- Your Highlight on page 49 | location 738-741 | Added on Thursday, 29 June 2023 09:44:04
+
+The real pleasure consists not in what one takes pleasure in but in the mind. If I had in my service a humble spirit who, when I asked for a glass of water, brought me all the world’s most expensive wines nicely blended in a goblet, I would dismiss him until he learned that the pleasure consists not in what I enjoy but in having my way.
+==========
+Either/Or: A Fragment of Life (Soren Kierkegaard)
+- Your Highlight on page 50 | location 762-766 | Added on Sunday, 2 July 2023 23:42:43
+
+have speculated for some time as to the real reason why I resigned my post as secondary-school teacher. Thinking it over now, it occurs to me that such a position was the very thing for me. Today it dawned on me: that was precisely the reason, I had to consider myself absolutely fitted for the job. So if I’d continued in it I had everything to lose, nothing to gain. Wherefore I thought it proper to resign my post and seek employment with a travelling theatre, the reason being that I had no talent, and so everything to gain. […]
+==========
+Either/Or: A Fragment of Life (Soren Kierkegaard)
+- Your Highlight on page 55 | location 829-831 | Added on Thursday, 6 July 2023 09:52:15
+
+you marry, you will regret it; if you do not marry, you will also regret it; if you marry or if you do not marry, you will regret both; whether you marry or you do not marry, you will regret both.
+==========
+Doughnut Economics (Kate Raworth)
+- Your Highlight on page 8 | location 122-123 | Added on Thursday, 6 July 2023 18:34:22
+
+‘You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.’
+==========
+Doughnut Economics (Kate Raworth)
+- Your Highlight on page 11 | location 164-165 | Added on Thursday, 6 July 2023 18:39:12
+
+‘In these early decades of the twenty-first century, the master story is economic: economic beliefs, values and assumptions are shaping how we think, feel and act,’ writes F.S. Michaels in her
+==========
+Doughnut Economics (Kate Raworth)
+- Your Highlight on page 11 | location 164-168 | Added on Thursday, 6 July 2023 18:39:20
+
+‘In these early decades of the twenty-first century, the master story is economic: economic beliefs, values and assumptions are shaping how we think, feel and act,’ writes F.S. Michaels in her book Monoculture: How One Story Is Changing Everything.18 Perhaps this is why economists carry an air of authority. They take
+==========
+Doughnut Economics (Kate Raworth)
+- Your Highlight on page 11 | location 164-165 | Added on Thursday, 6 July 2023 18:39:30
+
+‘In these early decades of the twenty-first century, the master story is economic: economic
+==========
+Doughnut Economics (Kate Raworth)
+- Your Highlight on page 11 | location 164-167 | Added on Thursday, 6 July 2023 18:39:38
+
+‘In these early decades of the twenty-first century, the master story is economic: economic beliefs, values and assumptions are shaping how we think, feel and act,’ writes F.S. Michaels in her book Monoculture: How One Story Is Changing Everything.18
+==========
+Doughnut Economics (Kate Raworth)
+- Your Highlight on page 26 | location 397-398 | Added on Friday, 7 July 2023 18:48:23
+
+The difficulty lies not in the new ideas, but in the old ones which ramify, for those of us brought up as most of us have been, into every corner of our minds.’
+==========
+Doughnut Economics (Kate Raworth)
+- Your Highlight on page 27 | location 400-403 | Added on Friday, 7 July 2023 18:49:03
+
+as the philosopher Alfred Korzybski put it: every model can only ever be a model, a necessary simplification of the world, and one that should never be mistaken for the real thing. Second, there is no correct pre-analytic vision, true paradigm or perfect frame out there to be discovered. In the deft words of the statistician George Box, ‘All models are wrong, but some are useful.’
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 160-164 | Added on Monday, 17 July 2023 09:04:43
+
+Many of Blackstone’s most successful investments have been growth plays. It built a small British amusements operator, Merlin Entertainments, into a major international player, for example, with Legoland toy parks and Madame Tussauds wax museums across two continents. Likewise it transformed a humdrum German bottle maker, Gerresheimer AG, into a much more profitable manufacturer of sophisticated pharmaceutical packaging. It has also staked start-ups, including an oil exploration company that found a major new oil field off the coast of West Africa. None of these fit the cliché of the strip-and-flip.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 198-200 | Added on Monday, 17 July 2023 09:28:10
+
+The crisis of 2007 to 2009 wasn’t the first for private equity. The buyout industry suffered a near-death experience in a similar credit crunch at the end of the 1980s and was wounded again when the technology and telecommunications bubble burst in the early 2000s. Each time, however, it rebounded and the surviving firms emerged larger, taking in more money and targeting new kinds of investments.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 257-266 | Added on Wednesday, 19 July 2023 09:48:34
+
+Gibson Greeting Cards Inc., which published greeting cards and owned the rights to the Garfield the Cat cartoon character, was an unloved subsidiary of RCA Corporation, the parent of the NBC television network, when a buyout shop called Wesray bought it in January 1982. Wesray, which was cofounded by former Nixon and Ford treasury secretary William E. Simon, paid $80 million, but Wesray and the card company’s management put up just $1 million of that and borrowed the rest. With so little equity, they didn’t have much to lose if the company failed but stood to make many times their money if they sold out at a higher price. Sixteen months later, after selling off Gibson Greeting’s real estate, Wesray and the management took the company public in a stock offering that valued it at $290 million. Without leverage (another term for debt), they would have made roughly three and a half times their money. But with the extraordinary ratio of debt in the original deal, Simon and his Wesray partner Raymond Chambers each made more than $65 million on their respective $330,000 investments—a two-hundred-fold profit. Their phenomenal gain instantly became legend. Weeks after, New York magazine and the New York Times were still dissecting Wesray’s coup.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 270-272 | Added on Wednesday, 19 July 2023 09:49:56
+
+At Lehman, Steve Schwarzman looked on at the Gibson IPO in rapt amazement like everyone else. He couldn’t help but pay attention, because he had been RCA’s banker and adviser when it sold Gibson to Wesray in the first place and had told RCA the price was too cheap. The Houdaille and Gibson deals would mark the beginning of his lasting fascination with leveraged buyouts.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 290-302 | Added on Wednesday, 19 July 2023 09:56:52
+
+By the 1980s, though, Lehman had regained financial strength and Peterson and Schwarzman began to press the rest of management to consider merchant banking again. They even went so far as to line up a target, Stewart-Warner Corporation, a publicly traded maker of speedometers based in Chicago. They proposed that Lehman lead a leveraged buyout of the company, but Lehman’s executive committee, which Peterson chaired but didn’t control, shot down the plan. Some members worried that clients might view Lehman as a competitor if it started buying companies. “It was a fairly ludicrous argument,” Peterson says. “I couldn’t believe they turned this down,” says Schwarzman. “There was more money to be made in a deal like that than there was in a whole year of earnings for Lehman”—about $200 million at the time. The two never gave up on the dream. Schwarzman would invite Dick Beattie, the lawyer for the Kohlberg Kravis buyout firm whose law firm was also Lehman’s primary outside counsel, to speak to Lehman bankers about the mechanics of buyouts. “Lurking in the background was the question, ‘Why can’t Lehman get into this?’ ” Beattie recalls. All around them, banks like Goldman Sachs and Merrill Lynch were launching their own merchant banking divisions. For the time being, however, Peterson and Schwarzman would watch from the sidelines as the LBO wave set off by Houdaille and Gibson Greeting gathered force. They would have to be content plying their trade as M&A bankers, advising companies rather than leading their own investments.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 340-345 | Added on Wednesday, 19 July 2023 22:26:05
+
+The trader was the one who understood why Lehman had bought the securities and what went wrong. “I argued that the guy who created the mess in the first place was in the best position to fix it,” Hellman says. Peterson concurred, believing, he says, that “everyone is entitled to one big mistake.” Glucksman made good on his second chance and, under Peterson, Lehman rebounded. In 1975 BusinessWeek put Peterson’s granite-jawed visage on its cover and heralded his achievement with the headline “Back from the Brink Comes Lehman Bros.” Despite his role in righting the firm, Peterson never fit easily into Lehman’s
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 373-377 | Added on Wednesday, 19 July 2023 22:32:16
+
+The warfare was over the top even by Wall Street’s dog-eat-dog standards. Robert Rubin, a Goldman Sachs partner who went on to be treasury secretary in the Clinton administration, told Lehman president Hellman that their two firms had equally talented partners. The difference, Rubin said, was that the partners at Goldman understood that their real competition came from beyond the walls of the firm. Lehman’s partners seemed to believe that their chief competition came from inside. The
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 373-377 | Added on Wednesday, 19 July 2023 22:32:31
+
+The warfare was over the top even by Wall Street’s dog-eat-dog standards. Robert Rubin, a Goldman Sachs partner who went on to be treasury secretary in the Clinton administration, told Lehman president Hellman that their two firms had equally talented partners. The difference, Rubin said, was that the partners at Goldman understood that their real competition came from beyond the walls of the firm. Lehman’s partners seemed to believe that their chief competition came from inside. The
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 373-376 | Added on Wednesday, 19 July 2023 22:32:40
+
+The warfare was over the top even by Wall Street’s dog-eat-dog standards. Robert Rubin, a Goldman Sachs partner who went on to be treasury secretary in the Clinton administration, told Lehman president Hellman that their two firms had equally talented partners. The difference, Rubin said, was that the partners at Goldman understood that their real competition came from beyond the walls of the firm. Lehman’s
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 354-376 | Added on Wednesday, 19 July 2023 22:32:53
+
+to remind him to attend some charity ball or to call a CEO the next morning. The off-in-the clouds quality carried over into his years at Blackstone, too. Howard Lipson, a longtime Blackstone partner, remembers seeing Peterson one blustery night sporting a bulky winter hat. Affixed to its crown was a note: “Pete—don’t forget your hat.” Lipson recalls, too, the terror and helplessness Peterson would express when his secretary stepped away and he was faced with having to answer his own phone. “Patty! Patty!” he’d yowl. Peterson enjoyed the attention and ribbing that his absentmindedness provoked from others. In his conference room, he would later showcase a plaque from the Council on Foreign Relations given out of appreciation for, among other things, “his unending search for his briefcase.” “This was endearing stuff,” says Lipson. “Some people said he was losing it, but Pete wasn’t that old. I think it was a sign he had many things going on in his mind.” David Batten, a Blackstone partner in the early 1990s who admires Peterson, has the same take: “Pete was probably thinking great thoughts,” he says, alluding to the fact that Peterson often was preoccupied with big-picture policy issues. During his Lehman years, he was a trustee of the Brookings Institution, a well-known think tank, and occasionally served on ad hoc government advisory committees. Later, at Blackstone, he authored several essays and books on U.S. fiscal policy. If he sometimes seemed oblivious to underlings, he was assiduous in cultivating celebrities in the media, the arts, and government—Barbara Walters, David Rockefeller, Henry Kissinger, Mike Nichols, and Diane Sawyer, among others—and was relentless in his name-dropping. Far outweighing his shortcomings was his feat of managing Lehman through a decade of prosperity. This was no small achievement at an institution racked by vicious rivalries. Since the death in 1969 of its longtime dominant leader, Bobbie Lehman, who’d kept a lid on internal clashes, Lehman had devolved into a snake pit. Partners plotted to one-up each other and to capture more bonus money. One Lehman partner was rumored to have coaxed another into selling him his stock in a mining company when the first partner knew, which the seller did not, that the company was about to strike a rich new lode. In a case of double-dealing that enraged Peterson when it came to light, a high-ranking partner, James Glanville, urged one of his clients to make a hostile bid for a company that other Lehman partners were advising on how to defend against hostile bids. The warfare was over the top even by Wall Street’s dog-eat-dog standards. Robert Rubin, a Goldman Sachs partner who went on to be treasury secretary in the Clinton administration, told Lehman president Hellman that their two firms had equally talented partners. The difference, Rubin said, was that the partners at Goldman understood that their real competition came from beyond the walls of the firm. Lehman’s
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 374-376 | Added on Wednesday, 19 July 2023 22:33:05
+
+Rubin, a Goldman Sachs partner who went on to be treasury secretary in the Clinton administration, told Lehman president Hellman that their two firms had equally talented partners. The difference, Rubin said, was that the partners at Goldman understood that their real competition came from beyond the walls of the firm. Lehman’s
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 374-376 | Added on Wednesday, 19 July 2023 22:33:30
+
+Rubin, a Goldman Sachs partner who went on to be treasury secretary in the Clinton administration, told Lehman president Hellman that their two firms had equally talented partners. The difference, Rubin said, was that the partners at Goldman understood that their real competition came from beyond the walls of the firm. Lehman’s partners seemed to believe that their chief competition came from inside.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 392-393 | Added on Thursday, 20 July 2023 09:40:52
+
+Schwarzman wasn’t the bank’s only M&A luminary. In any given year, a half-dozen other Lehman bankers might generate more fees, but he mixed easily with CEOs, and his incisive instincts and his virtuosity as a deal maker set him apart.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 422-423 | Added on Thursday, 20 July 2023 09:45:50
+
+“Normally chief executives are reticent working with someone that age, but he is being sought out by major clients,”
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 423-425 | Added on Thursday, 20 July 2023 09:46:16
+
+Schwarzman, Lipton said, possessed a rare “instinct that puts him in the right place at the right time.” (Schwarzman offered little insight into his own drive, other than saying, “I’m an implementer” and “I have a tremendous need to succeed.”)
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 562-568 | Added on Friday, 21 July 2023 13:09:31
+
+It worked like this: Suppose a conglomerate with $100 million of earnings per year traded at forty times earnings, so its outstanding stock was worth $4 billion. Smaller, less glamorous businesses usually traded at far lower multiples. The conglomerate could use its highly valued shares to buy a company with, say, $50 million of earnings that was valued at just twenty times earnings. The conglomerate would issue $1 billion of new stock ($50 million of earnings × 20) to pay the target’s shareholders. That would lift earnings by 50 percent but enlarge the conglomerate’s stock base by just 25 percent ($4 billion + $1 billion), so that its earnings per share increased by 20 percent. By contrast, if it had bought the target for forty times earnings, its own earnings per share wouldn’t have gone up. Because
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 562-568 | Added on Friday, 21 July 2023 13:09:38
+
+It worked like this: Suppose a conglomerate with $100 million of earnings per year traded at forty times earnings, so its outstanding stock was worth $4 billion. Smaller, less glamorous businesses usually traded at far lower multiples. The conglomerate could use its highly valued shares to buy a company with, say, $50 million of earnings that was valued at just twenty times earnings. The conglomerate would issue $1 billion of new stock ($50 million of earnings × 20) to pay the target’s shareholders. That would lift earnings by 50 percent but enlarge the conglomerate’s stock base by just 25 percent ($4 billion + $1 billion), so that its earnings per share increased by 20 percent. By contrast, if it had bought the target for forty times earnings, its own earnings per share wouldn’t have gone up.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 585-589 | Added on Friday, 21 July 2023 14:26:08
+
+As KKR, Forstmann Little, and other buyout firms chalked up big profits on their investments of the late 1970s and early 1980s, insurance companies and other institutions began to divert a bit of the money they had invested in public stocks and bonds to the new LBO funds. By diversifying their mix of assets to include buyouts and real estate, these investors reduced risk and could boost their overall returns over time. The money they moved into the buyout funds was used to buy the stock, or equity, of companies.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Note at location 589 | Added on Friday, 21 July 2023 14:26:45
+
+Flow of money (for operational efficiency)
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 696-699 | Added on Monday, 24 July 2023 16:23:48
+
+KKR used this tactic, known on Wall Street as a bear hug, a number of times, including with the Kroger Company, Beatrice Foods, and Owens-Illinois and eventually struck deals to buy the last two. To the lay observer, and the CEOs and directors who had to respond, the distinction between that and a genuine hostile bid made straight to shareholders was largely academic.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 742-743 | Added on Wednesday, 26 July 2023 09:01:35
+
+“We wanted to be in businesses where we could either drive very high assets per employee or operate with very high margins.”
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 879-882 | Added on Wednesday, 26 July 2023 22:48:15
+
+Peterson and Schwarzman hadn’t recognized how intimately linked the institutions were when they headed into these meetings. “We’d congratulate ourselves on being such great presenters,” Schwarzman says. “I came to realize later we could have sent monkeys in to make those presentations. The fact was, they tended to trust the lead investor, Nikko.” Even a member of a rival industrial group, Mitsui Trust, pledged $25 million. He and Peterson headed home with an additional $175 million in hand.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 897-900 | Added on Wednesday, 26 July 2023 22:50:59
+
+The following Monday the U.S. stock markets nose-dived 23 percent. Black Monday, as it became known, was the biggest one-day drop since 1914, outstripping even the 1929 sell-off that ushered in the Great Depression. If Blackstone hadn’t tied up contractual loose ends before the crash, undoubtedly many investors would have backed out. Instead, Blackstone could boast of raising the largest first-time leveraged buyout fund up to that time.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 968-969 | Added on Wednesday, 26 July 2023 23:06:00
+
+(The intricate tactic he hatched to capture Conoco, called a front-end-loaded, two-tier tender offer, was later banned by the U.S. Securities and Exchange Commission.)
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1029-1031 | Added on Friday, 28 July 2023 09:40:19
+
+“We showed that most of the wild cyclicality in steel companies’ profits was due to what happened to pricing as volume rose or fell,” says Lipson. “Despite that, the railroads are affected only by steel volume, not prices, and volume is not nearly as volatile as prices.”
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1055-1057 | Added on Friday, 28 July 2023 09:51:26
+
+To tide the business over if it ran into trouble, Lee further offered $25 million of backup capital in the form of a revolving credit facility—a now-conventional part of LBO financing that Lee helped popularize.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1055-1058 | Added on Friday, 28 July 2023 09:51:42
+
+To tide the business over if it ran into trouble, Lee further offered $25 million of backup capital in the form of a revolving credit facility—a now-conventional part of LBO financing that Lee helped popularize. This was credit the company could draw on if needed and pay back as it could, unlike the regular loans, whose amounts and due dates were fixed. “When I walked into Blackstone’s offices, I knew I could
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1055-1057 | Added on Friday, 28 July 2023 09:51:51
+
+To tide the business over if it ran into trouble, Lee further offered $25 million of backup capital in the form of a revolving credit facility—a now-conventional part of LBO financing that Lee helped popularize. This was credit the company could draw on if needed and pay back as it could, unlike the regular loans, whose amounts and due dates were fixed.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1083-1084 | Added on Friday, 28 July 2023 09:58:37
+
+If a company has paid down its debt substantially, it can turn around and reborrow against its cash flow in order to pay its owners a dividend. That is known as a dividend recapitalization.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1088-1090 | Added on Friday, 28 July 2023 10:00:28
+
+A little more than two years after the deal closed, Blackstone had made back nearly four times the $13.4 million it had invested. By 2003, when Blackstone sold the last of its stake in a successor to Transtar to Canadian National Railroad, the firm and its investors had made twenty-five times their money
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1088-1090 | Added on Friday, 28 July 2023 10:00:34
+
+A little more than two years after the deal closed, Blackstone had made back nearly four times the $13.4 million it had invested. By 2003, when Blackstone sold the last of its stake in a successor to Transtar to Canadian National Railroad, the firm and its investors had made twenty-five times their money and earned a superlative 130 percent average annual return over fifteen years.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1110-1111 | Added on Friday, 28 July 2023 10:04:23
+
+“You could argue that Blackstone made JPMorgan Chase as much as JPMorgan Chase made Blackstone,”
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1110-1111 | Added on Friday, 28 July 2023 10:04:30
+
+“You could argue that Blackstone made JPMorgan Chase as much as JPMorgan Chase made Blackstone,”
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1110-1111 | Added on Friday, 28 July 2023 10:04:38
+
+“You could argue that Blackstone made JPMorgan Chase as much as JPMorgan Chase made Blackstone,” says one of Lee’s counterparts at another bank. “Neither would be where they are today without the other.”
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1124-1125 | Added on Friday, 28 July 2023 10:07:13
+
+“That’s really why we came up with the corporate partnership strategy. I just couldn’t figure out how to make money buying companies unless we brought unusual efficiencies to a company by way of cost improvements or revenue synergies.”
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1132-1134 | Added on Friday, 28 July 2023 10:09:00
+
+The rudimentary rule of investing, that one must risk money to make money, “is something Steve always had a hard time coping with,” says one former partner. For a world-class investor, “his risk-aversion was really extraordinary.” Schwarzman acknowledges as much. “We are more risk-averse than
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1132-1135 | Added on Friday, 28 July 2023 10:09:06
+
+The rudimentary rule of investing, that one must risk money to make money, “is something Steve always had a hard time coping with,” says one former partner. For a world-class investor, “his risk-aversion was really extraordinary.” Schwarzman acknowledges as much. “We are more risk-averse than other private equity firms, and part of it is visceral. I don’t like failure, and losing money is failing. It’s a personal thing that has turned into a strategy here.”
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1180-1183 | Added on Sunday, 30 July 2023 21:18:30
+
+“I had them both in my office,” Schwarzman says of Stockman and Winograd. “Winograd argued that the company’s profits were of a repeat nature, and that it had very interesting expansion prospects. Stockman said it was a dangerous deal to do and it wasn’t worth the price. I could see both sides, and I voted with Winograd. It turned out to be a catastrophically wrong decision.”
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1193-1196 | Added on Sunday, 30 July 2023 21:20:35
+
+That Schwarzman ultimately salvaged even one-sixth of the limited partners’ money was little short of miraculous in the circumstances, an ex-partner recalls. “That’s where I saw Steve’s brilliance,” this person says. “That’s where I saw how good he was. He saw the problem and he worked doggedly to resuscitate the company.”
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1270-1272 | Added on Sunday, 30 July 2023 21:34:53
+
+From then on, partners would have to submit a researched and tightly reasoned proposal that would be shared with all other partners. Schwarzman would remain the final arbiter, but henceforth there would be a full airing of every deal’s possible pitfalls before he decided whether to go forward.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1273-1276 | Added on Sunday, 30 July 2023 21:35:44
+
+“I didn’t want people lobbying me at my desk or whispering to me in a corridor. Every deal would get vetted in front of the entire partnership, and not just once,” Schwarzman says. “It would be the job of the partners to poke holes and lay out the risks, without anyone getting huffy or defensive. It wasn’t a personal attack. People had to realize it wasn’t their deal being criticized; it was the firm’s deal, and the process was to protect the firm. Had we not had Edgcomb, people might still be lining up at my door.”
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1345-1348 | Added on Sunday, 30 July 2023 22:07:56
+
+At Yale, he’d studied psychology, sociology, and anthropology; the business world was terra incognita. “They gave me an office and a secretary, but I was utterly unprepared for any commercial enterprise, let alone a fast-moving one like DLJ and the securities business. I had no knowledge of accounting. I didn’t even know what a common stock was before I went there.”
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1359-1363 | Added on Sunday, 30 July 2023 22:13:34
+
+The Steve Schwarzman who became the driving force of Blackstone reflected the verve and talent of that younger man. He also had paradoxical qualities. In Blackstone’s early years he worked tirelessly, logging fourteen-hour days, his mind constantly immersed in ways to strengthen the fledgling business. Associates and bankers fielded calls from him at all hours to hash over ideas. “He would often call me on Saturday morning to ask me what I thought of this or that, or I would call him,” says Jimmy Lee, the Chemical Bank lending chief. “He was building his firm, I was building mine, and we reinforced each other.”
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1364-1366 | Added on Sunday, 30 July 2023 22:14:27
+
+Former partner Bret Pearlman, who worked at the firm from 1989 to 2004, remembers as a young employee getting voice mails from Schwarzman left at 5:30 A.M. commenting on memos Pearlman had left him the night before. The calls spoke volumes, both about Schwarzman’s attentiveness and about the work ethic he demanded. “Steve never expected more out of you than he expected out of himself,” says Pearlman.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1398-1401 | Added on Sunday, 30 July 2023 22:21:33
+
+Internally, there was no question that Schwarzman was the boss, but he didn’t dictate decisions from the top. “Steve is not the sort to lay down the law and say, ‘I think we should do this,’ ” says former partner Simon Lonergan. He didn’t need to dominate the room; he preferred to hear views from around the table before making a decision.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1738-1743 | Added on Wednesday, 9 August 2023 09:58:10
+
+Bonderman and another Bass alumnus, James Coulter, followed that in 1993 by buying Continental Airlines, Inc., out of bankruptcy with $400 million they’d rounded up from wealthy investors and institutions. Bonderman and Coulter ultimately came away with nine times their money on Continental. By then, they and a San Francisco business consultant, William Price, had launched their own buyout firm, Texas Pacific Group, based in Fort Worth and San Francisco, and raised a $720 million debut fund in 1994. They quickly became known as top-flight contrarians and turnaround artists who would take on financially or operationally hobbled companies most buyout firms wouldn’t touch.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1789-1792 | Added on Wednesday, 9 August 2023 22:18:12
+
+A month to the day after the buyout closed, however, on August 2, 1990, Iraq invaded Kuwait, an event that wasn’t in any of Blackstone’s investment scenarios. Almost immediately, as it became clear that the United States would lead a war to drive back Saddam Hussein’s army, oil prices shot up and hotel bookings plummeted as people were daunted by the costs and risks of travel. “Our reservation volume
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 1789-1793 | Added on Wednesday, 9 August 2023 22:18:18
+
+A month to the day after the buyout closed, however, on August 2, 1990, Iraq invaded Kuwait, an event that wasn’t in any of Blackstone’s investment scenarios. Almost immediately, as it became clear that the United States would lead a war to drive back Saddam Hussein’s army, oil prices shot up and hotel bookings plummeted as people were daunted by the costs and risks of travel. “Our reservation volume fell off a cliff,” Silverman says. “It was down 30 to 40 percent in one day.”
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 2005-2006 | Added on Thursday, 10 August 2023 09:44:16
+
+Flustered, Stockman stared at Lipson’s spreadsheet and retorted, “Well, that’s just because of the way you structured it.” “Exactly!” said Lipson.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 2005-2009 | Added on Thursday, 10 August 2023 09:44:50
+
+Flustered, Stockman stared at Lipson’s spreadsheet and retorted, “Well, that’s just because of the way you structured it.” “Exactly!” said Lipson. Silverman, Altman, and Lipson won the argument, and in the coming months the investment played out exactly as they’d hoped. In December 1992, a year after the $760 million buyout, Time Warner exercised its option to buy out Blackstone’s stake in the resurgent company for $104 million. Stockman’s dyspeptic prophesy notwithstanding, Blackstone raked in a 27 percent return.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 2028-2030 | Added on Thursday, 10 August 2023 09:48:10
+
+“James was professorial, but he could drive a point home,” says Chu. “He could take a deck of analysis and zero in on the top three issues within minutes. That’s an innate ability.”
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 2039-2040 | Added on Thursday, 10 August 2023 09:52:29
+
+“Doing nothing is as good as doing something in James’s mind. He was an analytically rigorous guy—very disciplined.”
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 2268-2273 | Added on Wednesday, 16 August 2023 09:41:38
+
+“These were all medium-sized, cyclical businesses that we bought within two or three years of an economic top,” says Schwarzman. “We paid too much for some of them. We had ambitious turnaround plans for them that turned out to be very difficult to execute.” The losses taught the firm several lessons, he says. First, “don’t pay too much when you’re buying cyclicals,” he says. Second, “don’t have ambitious turnaround expectations for medium-sized companies. Don’t expect to reinvent them.” Third, if an investment calls for reengineering operations, “don’t have it be a Blackstone-manufactured plan.” Rather, develop a plan in consultation with seasoned executives and consultants knowledgeable enough to judge if the plan will fly.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 2367-2370 | Added on Wednesday, 16 August 2023 19:03:06
+
+is a scattershot approach, like tossing apple seeds and hoping a healthy tree or two will spring up. VCs make bets on which entrepreneur will achieve a technological breakthrough first, who can get to market fastest, and whose product will dominate its market—events whose likelihood defies precise projections.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 2391-2395 | Added on Wednesday, 16 August 2023 19:08:00
+
+Gallogly was the odd one out among the larger-than-life personalities and egos there. He generated none of the electricity that the brilliant and overbearing David Stockman did. He had a penchant for analysis, but he was not an eccentric mad-scientist number-grinder like James Mossman. Nor could he compete for laughs with the outgoing, wisecracking Howie Lipson. Gallogly, who began his career on the lending side at Manufacturers Hanover bank, was intense, reserved, and soft-spoken. Innately cautious, he retained a loan officer’s fear of risk, measuring his words and agonizing over investments.
+==========
+King of Capital: The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone (David Carey;John E. Morris;John Morris)
+- Your Highlight at location 2506-2511 | Added on Wednesday, 13 September 2023 20:40:28
+
+Competing with the VCs wasn’t really an option, though. That took in-depth knowledge of tech industries ranging from semiconductors and software to websites and biotechs—sectors where private equity firms had little if any expertise and few contacts. Moreover, entrepreneurs flocked to the venture firms that had backed the most successful investments. Why would they come to Blackstone, which had no track record and was on the wrong coast? Buyout firms that tried to intrude on the Californian finance turf were likely to get only companies that had been rejected by the top VCs. KKR formed a joint venture with the venture firm Accel, and Carlyle launched venture funds, but they never left a big mark.
+==========
+Berserk VOL (30 @MangaLnCafe)
+- Your Bookmark on page 1 | location 2 | Added on Monday, 18 September 2023 12:12:01
+
+
+==========
+The Three-Body Problem (Cixin Liu)
+- Your Highlight at location 267-268 | Added on Tuesday, 19 September 2023 22:36:44
+
+as soon as she came in. She stood there for a while, silent. Then she turned and walked
+==========
+The Three-Body Problem (Cixin Liu)
+- Your Highlight at location 341-347 | Added on Wednesday, 20 September 2023 23:22:56
+
+The book dealt only with a limited subject: the negative environmental effects of excessive pesticide use. But the perspective taken by the author shook Ye to the core. The use of pesticides had seemed to Ye just a normal, proper—or, at least, neutral—act, but Carson’s book allowed Ye to see that, from Nature’s perspective, their use was indistinguishable from the Cultural Revolution, and equally destructive to our world. If this was so, then how many other acts of humankind that had seemed normal or even righteous were, in reality, evil? As she continued to mull over these thoughts, a deduction made her shudder: Is it possible that the relationship between humanity and evil is similar to the relationship between the ocean and an iceberg floating on its surface? Both the ocean and the iceberg are made of the same material. That the iceberg seems separate is only because it is in a different form. In reality, it is but a part of the vast ocean.…
+==========
+The Three-Body Problem (Cixin Liu)
+- Your Highlight at location 1177-1180 | Added on Sunday, 1 October 2023 01:12:42
+
+influential. He believed that technological progress was a disease in human society. The explosive development of technology was analogous to the growth of cancer cells, and the results would be identical: the exhaustion of all sources of nourishment, the destruction of organs, and the final death of the host body. He advocated abolishing crude technologies such as fossil fuels and nuclear energy and keeping gentler technologies such as solar power and small-scale hydroelectric power.
+==========
+The Three-Body Problem (Cixin Liu)
+- Your Highlight at location 1600-1602 | Added on Tuesday, 3 October 2023 09:47:13
+
+Normally, game designers tried to display as much information as possible to increase the sense of realism. But Three Body’s designers worked to compress the information content to disguise a more complex reality, just like that seemingly empty photograph of the sky. Wang let his mind wander back to the world of Three
+==========
+The Three-Body Problem (Cixin Liu)
+- Your Highlight at location 1600-1602 | Added on Tuesday, 3 October 2023 09:47:19
+
+Normally, game designers tried to display as much information as possible to increase the sense of realism. But Three Body’s designers worked to compress the information content to disguise a more complex reality, just like that seemingly empty photograph of the sky.
+==========
+The Three-Body Problem (Cixin Liu)
+- Your Highlight at location 1884-1889 | Added on Saturday, 7 October 2023 22:04:01
+
+“To be honest, even if I were to look at the stars in the sky, I wouldn’t be thinking about your philosophical questions. I have too much to worry about! I gotta pay the mortgage, save for the kid’s college, and handle the endless stream of cases.… I’m a simple man without a lot of complicated twists and turns. Look down my throat and you can see out my ass. Naturally, I don’t know how to make my bosses like me. Years after being discharged from the army, my career is going nowhere. If I weren’t pretty good at my job, I would have been kicked out a long time ago.… You think that’s not enough for me to worry about? You think I’ve got the energy to gaze at stars and philosophize?”
+==========
+The Three-Body Problem (Cixin Liu)
+- Your Highlight at location 2157-2158 | Added on Saturday, 7 October 2023 22:44:27
+
+let me tell you: By the time you’re my age, you’ll realize that everything you once thought mattered so much turns out to mean very little.”
+==========
+The Three-Body Problem (Cixin Liu)
+- Your Highlight at location 2734-2735 | Added on Thursday, 12 October 2023 22:57:52
+
+The abbot shook his head and said, “No, emptiness is not nothingness. Emptiness is a type of existence. You must use this existential emptiness to fill yourself.”
+==========
+The Three-Body Problem (Cixin Liu)
+- Your Highlight at location 3129-3132 | Added on Saturday, 14 October 2023 23:48:36
+
+“This is really interesting,” Qin Shi Huang said, pointing to the spectacular sight. “Each individual’s behavior is so simple, yet together, they can produce such a complex, great whole! Europeans criticize me for my tyrannical rule, claiming that I suppress creativity. But in reality, a large number of men yoked by severe discipline can also produce great wisdom when bound together as one.”
+==========
+The Three-Body Problem (Cixin Liu)
+- Your Highlight at location 3602-3604 | Added on Monday, 16 October 2023 22:35:07
+
+“Human society can no longer rely on its own power to solve its problems. It can also no longer rely on its own power to restrain its madness. Therefore, we ask our Lord to come to this world, and with Its power, forcefully watch over us and transform us, so as to create a brand-new, perfect human civilization.”
+==========
+The Three-Body Problem (Cixin Liu)
+- Your Note at location 3604 | Added on Monday, 16 October 2023 22:35:45
+
+The antifragility
+==========
+The Three-Body Problem (Cixin Liu)
+- Your Highlight at location 3748-3748 | Added on Monday, 16 October 2023 23:00:32
+
+the level of a Kardashev
+==========
+The Three-Body Problem (Cixin Liu)
+- Your Highlight at location 3858-3859 | Added on Monday, 16 October 2023 23:23:25
+
+In the face of madness, rationality was powerless.
+==========
+The Three-Body Problem (Cixin Liu)
+- Your Highlight at location 3868-3869 | Added on Monday, 16 October 2023 23:25:20
+
+She had once been an idealist who needed to give all her talent to a great goal, but now she realized that all that she had done was meaningless, and the future could not have any meaningful pursuits, either.
+==========
+The Three-Body Problem (Cixin Liu)
+- Your Highlight at location 4604-4606 | Added on Wednesday, 18 October 2023 22:16:30
+
+The Adventists would like to destroy the human race by means of an alien power; the Redemptionists worship the alien civilization as a god; the Survivors wish to betray other humans to buy their own survival. None of these is in line with your original ideal of using the alien civilization as a way to reform humanity.
+==========
+The Three-Body Problem (Cixin Liu)
+- Your Highlight at location 5056-5061 | Added on Wednesday, 18 October 2023 23:23:26
+
+“There’s nothing wrong, of course. Existence is the premise for everything else. But, Princeps, please examine our lives: Everything is devoted to survival. To permit the survival of the civilization as a whole, there is almost no respect for the individual. Someone who can no longer work is put to death. Trisolaran society exists under a state of extreme authoritarianism. The law has only two outcomes: The guilty are put to death, and the not guilty are released. For me, the most intolerable aspects are the spiritual monotony and desiccation. Anything that can lead to spiritual weakness is declared evil. We have no literature, no art, no pursuit of beauty and enjoyment. We cannot even speak of love.… Princeps, is there meaning to such a life?”
+==========
+The Three-Body Problem (Cixin Liu)
+- Your Note at location 5061 | Added on Wednesday, 18 October 2023 23:23:51
+
+Communism to an extend 
+==========
+The Three-Body Problem (Cixin Liu)
+- Your Bookmark at location 5159 | Added on Wednesday, 18 October 2023 23:46:49
+
+
+==========
+The Three-Body Problem (Cixin Liu)
+- Your Bookmark at location 5440 | Added on Thursday, 19 October 2023 12:04:35
+
+
+==========
+The Three-Body Problem (Cixin Liu)
+- Your Highlight at location 5562-5566 | Added on Thursday, 19 October 2023 21:41:31
+
+“Like the dust storms, they started ten years ago. But this year is the worst.” “So what? Nothing matters now, Da Shi.” Ding spoke, his voice still drunk. “I just want to ask the two of you one question: Is the technological gap between humans and Trisolarans greater than the one between locusts and humans?” The question hit the two scientists like a bucket of cold water. As they stared at the clumps of locusts before them, their expressions grew solemn. They got Shi Qiang’s point.
+==========
+The Three-Body Problem (Cixin Liu)
+- Your Highlight at location 5562-5571 | Added on Thursday, 19 October 2023 21:41:45
+
+“Like the dust storms, they started ten years ago. But this year is the worst.” “So what? Nothing matters now, Da Shi.” Ding spoke, his voice still drunk. “I just want to ask the two of you one question: Is the technological gap between humans and Trisolarans greater than the one between locusts and humans?” The question hit the two scientists like a bucket of cold water. As they stared at the clumps of locusts before them, their expressions grew solemn. They got Shi Qiang’s point. *   *   * Look at them, the bugs. Humans have used everything in their power to extinguish them: every kind of poison, aerial sprays, introducing and cultivating their natural predators, searching for and destroying their eggs, using genetic modification to sterilize them, burning with fire, drowning with water. Every family has bug spray, every desk has a flyswatter under it … this long war has been going on for the entire history of human civilization. But the outcome is still in doubt. The bugs have not been eliminated. They still proudly live between the heavens and the earth, and their numbers have not diminished from the time before the appearance of the humans.
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 11 | location 96-97 | Added on Thursday, 19 October 2023 23:37:00
+
+These two spiritual monocells, aesthetics and pleasure had never evolved. They had been the same a billion years ago, and would be the same a billion years hence.
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 13 | location 131-133 | Added on Thursday, 19 October 2023 23:41:06
+
+“First: Survival is the primary need of civilization. Second: Civilization continuously grows and expands, but the total matter in the universe remains constant.”
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 14 | location 148-150 | Added on Thursday, 19 October 2023 23:43:04
+
+To derive a basic picture of cosmic sociology from these two axioms, you need two other important concepts: chains of suspicion, and the technological explosion.”
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 47 | location 672-672 | Added on Tuesday, 24 October 2023 23:09:14
+
+“Everything has a cost. It’s a law of nature.
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 64 | location 969-971 | Added on Wednesday, 25 October 2023 09:55:02
+
+“Beihai, you’ve got a long way to go. I say that because I can still easily understand you, and being understandable to me means that your mind is still too simple, not subtle enough. On the day I can no longer read you or figure you out, but you can easily understand me, that’s when you’ll finally have grown up.”
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 92 | location 1479-1481 | Added on Thursday, 26 October 2023 18:46:56
+
+“Nothing serious?” Luo Ji opened his bloodshot eyes wide. “I’m madly in love with a fictional person from a novel of my own creation. I’ve been with her, I’ve traveled with her, and I’ve even broken up with my real-life girlfriend over her. Is that nothing serious to you?”
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 92 | location 1484-1488 | Added on Thursday, 26 October 2023 18:48:05
+
+majority of people, what they love exists only in the imagination. The object of their love is not the man or woman of reality, but what he or she is like in their imagination. The person in reality is just a template used for the creation of this dream lover. Eventually, they find out the differences between their dream lover and the template. If they can get used to those differences, then they can be together. If not, they split up. It’s as simple as that. You differ from the majority in one respect: You didn’t need a template.”
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 94 | location 1520-1521 | Added on Thursday, 26 October 2023 22:05:16
+
+When you’ve thought of everything you should, and done everything you need to, then let whatever happens happen. There’s
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 94 | location 1520-1520 | Added on Thursday, 26 October 2023 22:05:24
+
+When you’ve thought of everything you should,
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 94 | location 1520-1520 | Added on Thursday, 26 October 2023 22:05:33
+
+When you’ve thought of everything you should, and done everything you need to, then let whatever happens happen.
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 155 | location 2647-2650 | Added on Sunday, 29 October 2023 16:07:21
+
+“It’s not about right or wrong. If everyone had to be clear about why before they executed an order, then the world would have plunged into chaos long ago. Mr. Kent, you do outrank me, but when you get down to it, we’re both people who carry out orders. We ought to understand that some things aren’t for people like us to think over. It’s enough to do our duty. If you can’t do that, then I’m afraid you’ll have a rough time.”
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 156 | location 2658-2660 | Added on Sunday, 29 October 2023 16:08:58
+
+“That’s right. But Luo Ji’s carefree. Nothing bothers him. Kent, old fellow, do you think what he’s doing is easy? Open-mindedness, is what this is, and anyone who wants to do great things needs to be open-minded. Someone like you won’t accomplish great things.”
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 203 | location 3503-3504 | Added on Monday, 30 October 2023 22:21:38
+
+The sun and the universe will die one day, so why should humanity believe that it ought to be immortal? Listen, this world is paranoid. Fighting a hopeless war is a fool’s errand,
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 241 | location 4172-4173 | Added on Thursday, 2 November 2023 19:06:31
+
+“When you have eliminated the impossible, whatever remains, no matter how improbable, must be the truth.
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 273 | location 4746-4747 | Added on Sunday, 5 November 2023 22:36:05
+
+The French representative left his seat in his excitement. “Which is more tragic for humanity: the loss of the ability and right to think freely, or defeat in this war?”
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 273 | location 4754-4756 | Added on Sunday, 5 November 2023 22:37:18
+
+“Why is it that everyone gets so sensitive at the mention of thought control? From commercial advertising to Hollywood culture, thought control is everywhere in modern society. You are, to use a Chinese phrase, mocking people for retreating a hundred paces when you’ve retreated fifty yourselves.” The
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 273 | location 4754-4756 | Added on Sunday, 5 November 2023 22:37:27
+
+“Why is it that everyone gets so sensitive at the mention of thought control? From commercial advertising to Hollywood culture, thought control is everywhere in modern society. You are, to use a Chinese phrase, mocking people for retreating a hundred paces when you’ve retreated fifty yourselves.”
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 370 | location 6477-6477 | Added on Wednesday, 8 November 2023 21:54:25
+
+‘Make time for life, or life won’t make time.’ To new
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 370 | location 6477-6477 | Added on Wednesday, 8 November 2023 21:54:30
+
+from the Golden Age: ‘Make
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 370 | location 6477-6478 | Added on Wednesday, 8 November 2023 21:54:35
+
+‘Make time for life, or life won’t make time.’ To new life!”
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 399 | location 7014-7014 | Added on Monday, 13 November 2023 22:48:17
+
+Ding
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 412 | location 7266-7266 | Added on Monday, 13 November 2023 23:24:35
+
+young, like how we remember a lover....” As he spoke, he pointed out the porthole
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 441 | location 7811-7812 | Added on Tuesday, 14 November 2023 17:27:19
+
+The historical facts of the Middle Ages and the Great Ravine prove that a totalitarian system is the greatest barrier to human progress.
+==========
+The Dark Forest (The Three-Body Problem) (Liu, Cixin)
+- Your Highlight on page 470 | location 8341-8342 | Added on Thursday, 16 November 2023 00:08:30
+
+No, no. Don’t say where we are! Once we know where we are, then the world becomes as narrow as a map. When we don’t know, the world feels unlimited.
+==========
+Introducing Statistics (Graphic Guides) (Magnello, Eileen)
+- Your Highlight on page 15 | location 101-102 | Added on Friday, 17 November 2023 10:01:30
+
+Nevertheless, the statistics that are available for public consumption can shape public opinions, influence government policies and inform (or misinform) citizens of medical and scientific discoveries and breakthroughs.
+==========
+The Great Mental Models: General Thinking Concepts (Shane Parrish)
+- Your Highlight on page 13 | location 185-187 | Added on Monday, 20 November 2023 23:10:17
+
+This analogy shows us the limits of our perception. We must be open to other perspectives if we truly want to understand the results of our actions. Despite feeling that we’ve got all the information, if we’re on the ship, the fish in the ocean has more he can share.
+==========
+Randall E. Stross - eBoys_ The First Inside Account of Venture Capitalists at Work-Crown (2001) (Randall E. Stross)
+- Your Highlight on page 11 | location 111-114 | Added on Saturday, 25 November 2023 12:45:01
+
+Entrepreneurship was increasingly touted as a panacea, the best means of fighting poverty, according to advocates in nonprofit initiatives that sprang up to teach entrepreneurship in neighborhood classes, schools—even in kindergartens. And all of these entrepreneurs and would-be entrepreneurs and
+==========
+Randall E. Stross - eBoys_ The First Inside Account of Venture Capitalists at Work-Crown (2001) (Randall E. Stross)
+- Your Highlight on page 11 | location 111-114 | Added on Saturday, 25 November 2023 12:45:04
+
+Entrepreneurship was increasingly touted as a panacea, the best means of fighting poverty, according to advocates in nonprofit initiatives that sprang up to teach entrepreneurship in neighborhood classes, schools—even in kindergartens. And all of these entrepreneurs and would-be entrepreneurs and
+==========
+Randall E. Stross - eBoys_ The First Inside Account of Venture Capitalists at Work-Crown (2001) (Randall E. Stross)
+- Your Highlight on page 11 | location 111-113 | Added on Saturday, 25 November 2023 12:45:13
+
+Entrepreneurship was increasingly touted as a panacea, the best means of fighting poverty, according to advocates in nonprofit initiatives that sprang up to teach entrepreneurship in neighborhood classes, schools—even in kindergartens.
+==========
+Randall E. Stross - eBoys_ The First Inside Account of Venture Capitalists at Work-Crown (2001) (Randall E. Stross)
+- Your Highlight on page 11 | location 121-122 | Added on Saturday, 25 November 2023 12:46:47
+
+detritus—decrepit auto-parts plants and ailing retailers—the venture guys worked
+==========
+Randall E. Stross - eBoys_ The First Inside Account of Venture Capitalists at Work-Crown (2001) (Randall E. Stross)
+- Your Highlight on page 13 | location 145-146 | Added on Sunday, 26 November 2023 21:58:57
+
+individual stars. John Doerr, for example, excelled at promoting the visibility of John Doerr,
+==========
+Lee, Min Jin - Pachinko (Min Jin Lee)
+- Your Highlight on page 12 | location 65-65 | Added on Monday, 27 November 2023 21:48:01
+
+only Hoonie, the eldest and the weakest one, survived. Hoonie was born with a cleft
+==========
+Randall E. Stross - eBoys_ The First Inside Account of Venture Capitalists at Work-Crown (2001) (Randall E. Stross)
+- Your Highlight on page 19 | location 207-209 | Added on Tuesday, 5 December 2023 10:01:17
+
+The guy. No special emphasis on either the or guy, but no intervening pause, either. TheGuy. That’s the person needed to head a start-up once it has grown beyond a seed.
+==========
+Randall E. Stross - eBoys_ The First Inside Account of Venture Capitalists at Work-Crown (2001) (Randall E. Stross)
+- Your Highlight on page 19 | location 207-210 | Added on Tuesday, 5 December 2023 10:01:21
+
+The guy. No special emphasis on either the or guy, but no intervening pause, either. TheGuy. That’s the person needed to head a start-up once it has grown beyond a seed. To wit, a stud, ideally, a big honkin’ stud or a total fuckin’ stud. He (or, yes, she) will not lack for balls, at least in one sense, but in another will work his nuts off, or his ass off (these being valuable pieces of anatomical real
+==========
+Randall E. Stross - eBoys_ The First Inside Account of Venture Capitalists at Work-Crown (2001) (Randall E. Stross)
+- Your Highlight on page 19 | location 207-213 | Added on Tuesday, 5 December 2023 10:01:27
+
+The guy. No special emphasis on either the or guy, but no intervening pause, either. TheGuy. That’s the person needed to head a start-up once it has grown beyond a seed. To wit, a stud, ideally, a big honkin’ stud or a total fuckin’ stud. He (or, yes, she) will not lack for balls, at least in one sense, but in another will work his nuts off, or his ass off (these being valuable pieces of anatomical real estate; you never hear “works his index finger off”). A high-hustle guy. A total can-do guy. A winner. Smart. Someone with integrity-off-the-charts. Scrappy. A kick-ass dude, a nail-eatin’, nut-crushin’ (that trope again!) decision maker, a competitor with killer instincts. Someone who attracts and hires A’s, unafraid to hire above himself. A player. A hitter.
+==========
+Lee, Min Jin - Pachinko (Min Jin Lee)
+- Your Highlight on page 49 | location 514-514 | Added on Sunday, 24 December 2023 22:58:31
+
+bump below a high bridge
+==========
+Lee, Min Jin - Pachinko (Min Jin Lee)
+- Your Highlight on page 66 | location 733-733 | Added on Friday, 29 December 2023 15:18:53
+
+wanted him to know. Nothing about him had ever made her suspect that he was a jebi
 ==========
